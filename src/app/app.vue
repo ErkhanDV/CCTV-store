@@ -9,5 +9,5 @@
 </template>
 
 <style>
-  @import "./index.sass";
+  @import './styles/index.sass';
 </style>
